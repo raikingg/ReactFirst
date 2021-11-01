@@ -1,0 +1,17 @@
+{
+  "user": [
+    {
+      "name": "karan",
+      "email": "jks@gmail.com",
+      "mobile": 3443,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "kjal",
+      "email": "jkssfkjkjs@gmail.com",
+      "mobile": 344883,
+      "userId": 2
+    }
+  ]
+}
